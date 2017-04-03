@@ -25,7 +25,7 @@ variable "aws_secret_key" {
 
 variable "counter" {
   type    = "string"
-  default = "1"
+  default = "3"
 }
 
 #module "example" {
